@@ -1,0 +1,5 @@
+2018-10-30 17:23:44,025 utils.log[line:24] INFO exe baidu.py
+2018-10-30 17:23:44,259 utils.log[line:18] INFO this is baidu
+2018-10-30 17:23:44,259 utils.log[line:19] ERROR this is baidu error
+2018-10-30 17:23:44,259 utils.log[line:15] INFO this is db_util
+2018-10-30 17:23:44,259 utils.log[line:16] ERROR this is db_util error
